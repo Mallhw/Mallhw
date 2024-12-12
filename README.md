@@ -4,7 +4,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mallhw" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallhw&layout=enum)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallhw&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
