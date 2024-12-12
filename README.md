@@ -1,7 +1,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallhw&show_icons=true&theme=ambient_gradient )
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallhw&exclude_repo=github-readme-stats,anuraghazra.github.io)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mallhw&layout=compact&theme=ambient_gradient )
 
 
