@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallhw)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Mallhw/Mallhw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
