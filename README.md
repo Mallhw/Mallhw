@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mallhw&show_icons=true&theme=cobalt)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Mallhw&show_icons=true&theme=dark"
@@ -10,6 +9,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Mallhw&show_icons=true" />
 </picture>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!---
